@@ -1,0 +1,36 @@
+# ==========================
+# Scripts Maven Wrapper
+# ==========================
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+# ==========================
+# Arquivos Java
+# ==========================
+*.java text eol=lf
+
+# ==========================
+# Arquivos Frontend (JS, TS, JSON, etc)
+# ==========================
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+
+# ==========================
+# Arquivos de configuração
+# ==========================
+*.yml text eol=lf
+*.yaml text eol=lf
+*.properties text eol=lf
+*.xml text eol=lf
+*.sql text eol=lf
+
+# ==========================
+# Arquivos de script Bash / Shell
+# ==========================
+*.sh text eol=lf

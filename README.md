@@ -32,11 +32,13 @@ Este projeto começou como um hobby, com o propósito de ajudar um amigo próxim
   - Organização de um roadmap por fases
 - [x] Criação de repositório no GitHub
 - [x] Criação do arquivo `README.md`
-- [ ] Definição de uma estrutura inicial de pastas:
+- [x] Definição de uma estrutura inicial de pastas:
   - `/backend` → Para o código Java Spring Boot
   - `/frontend` → Para o código React
   - `/docs` → Documentações futuras (como diagramas e especificações)
-- [ ] Configuração de um `.gitignore` adequado (Java + Node)
+  - `/infra` →  Arquivos relacionados à infraestrutura de desenvolvimento
+- [x] Configuração de um `.gitignore` adequado para Java + Node
+- [x] Configuração de um `.gitattributes`
 
 ---
 
