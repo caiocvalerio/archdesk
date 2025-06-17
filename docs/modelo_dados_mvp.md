@@ -88,7 +88,7 @@ Versão: MVP
 ---
 
 ## 🗺️ Diagrama ER
-![Diagrama ER](./docs/modelo_er.png)
+![Diagrama ER](./modelo_er.png)
 
 ---
 
